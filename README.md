@@ -34,7 +34,7 @@ npm install
 ```
 
 3.  Run in Development Mode:
-Currently, the ```npm run build``` script is being updated. To test the extension, use:
+Currently, the `npm run build` script is being updated. To test the extension, use:
 
 ```bash
 npm run dev
