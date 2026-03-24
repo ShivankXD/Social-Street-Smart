@@ -42,17 +42,23 @@ npm run dev
 
 4.Load the extension in Chrome:
 
-- Open Chrome and navigate to chrome://extensions/
+- Open Chrome and navigate to ```chrome://extensions/```
 - Enable Developer mode in the top right
-- Click Load unpacked and select the client (or dist if created) folder
+- Click Load unpacked and select the ```client``` (or ```dist``` if created) folder
 
 
 ### Backend Servers
 
+1.Navigate to the server directory:
 ```bash
 cd server
+
+```
+2.Start services with Docker:
+```bash
 docker compose up
-````
+
+```
 
 ## Project Structure
 
