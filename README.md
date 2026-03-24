@@ -44,7 +44,7 @@ npm run dev
 
 - Open Chrome and navigate to `chrome://extensions/`
 - Enable Developer mode in the top right
-- Click Load unpacked and select the ```client``` (or ```dist``` if created) folder
+- Click Load unpacked and select the `client` (or `dist` if created) folder
 
 
 ### Backend Servers
