@@ -42,7 +42,7 @@ npm run dev
 
 4.  Load the extension in Chrome:
 
-- Open Chrome and navigate to ```chrome://extensions/```
+- Open Chrome and navigate to `chrome://extensions/`
 - Enable Developer mode in the top right
 - Click Load unpacked and select the ```client``` (or ```dist``` if created) folder
 
